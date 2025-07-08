@@ -18,19 +18,13 @@ A lightweight JavaScript command-line application that fetches real-time weather
 
 Follow these steps to set up and run the project on your local machine:
 
-### Step 1: Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/SewejeJoshua/weather-with-api.git
 cd weather-with-api
 ````
-
-### Step 2: Install Node.js (Optional)
-
-If you plan to run the app using Node.js instead of in the browser:
-
-* Download and install Node.js from the [official website](https://nodejs.org/).
-
+ 
 ---
 
 ## 🚀 Usage
