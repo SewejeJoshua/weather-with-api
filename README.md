@@ -16,11 +16,13 @@ A simple JavaScript app that fetches and displays the current weather for a fixe
 
 ### In the Browser
 
-1. Open the file `index.js` in your browser or open developer console.
+1. Clone the repository: git clone https://github.com/SewejeJoshua/weather-with-api
+   
+2. Open the file `index.js` in your browser or open developer console.
 
-2. Copy and paste the code or run the script.
+3. Copy and paste the code or run the script.
 
-3. The current weather data will be fetched and logged in the console.
+4. The current weather data will be fetched and logged in the console.
 
 ### Using Node.js
 
@@ -30,3 +32,16 @@ A simple JavaScript app that fetches and displays the current weather for a fixe
 
 ```bash
 node index.js
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+See the [LICENSE](LICENSE) file for more details.
+
+---
+
+##👩🏽‍💻 Author
+
+Seweje Joshua 
+GitHub: @SewejeJoshua(https://github.com/SewejeJoshua)
