@@ -1,47 +1,31 @@
-# 🌤️ Weather CLI Application
+# 🌤️ Weather CLI Application 
 
-A simple JavaScript app that fetches and displays the current weather for a fixed location (Ibadan, Nigeria) using the Open-Meteo API.
+## Overview
 
----
-
-## 📦 Features
-
-- Fetch current weather data (temperature, wind speed, weather code)
-- Uses Open-Meteo public API (no API key required)
-- Simple interface to display data in browser console or Node.js
+The Weather CLI Application is a lightweight JavaScript program designed to fetch and display the current weather information for a fixed location—Ibadan, Nigeria—using the Open-Meteo public API. This application works seamlessly in both browser environments and Node.js.
 
 ---
 
-## 🚀 How to Run
+## Features
 
-### In the Browser
+- Retrieves real-time weather data including:
+  - Temperature
+  - Wind speed
+  - Weather condition code
+- Utilizes the Open-Meteo public API without requiring an API key
+- Simple and minimal interface suitable for browser console or Node.js execution
 
-1. Clone the repository: git clone https://github.com/SewejeJoshua/weather-with-api
-   
-2. Open the file `index.js` in your browser or open developer console.
+---
 
-3. Copy and paste the code or run the script.
+## Getting Started
 
-4. The current weather data will be fetched and logged in the console.
+### Prerequisites
 
-### Using Node.js
+- For running in Node.js, ensure Node.js is installed on your system: [Download Node.js](https://nodejs.org/)
 
-1. Make sure you have Node.js installed.
+### Installation
 
-2. Run:
+Clone the repository to your local machine:
 
 ```bash
-node index.js
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for more details.
-
----
-
-##👩🏽‍💻 Author
-
-Seweje Joshua 
-GitHub: @SewejeJoshua(https://github.com/SewejeJoshua)
+git clone https://github.com/SewejeJoshua/weather-with-api
