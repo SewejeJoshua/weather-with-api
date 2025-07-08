@@ -1,31 +1,21 @@
-# 🌤️ Weather CLI Application 
+# weather-cli 🌤️
 
-## Overview
-
-The Weather CLI Application is a lightweight JavaScript program designed to fetch and display the current weather information for a fixed location—Ibadan, Nigeria—using the Open-Meteo public API. This application works seamlessly in both browser environments and Node.js.
+A lightweight JavaScript command-line application that fetches real-time weather data for Ibadan, Nigeria. It features a simple interface and provides temperature, wind speed, and weather condition information using the Open-Meteo API.
 
 ---
 
-## Features
-
-- Retrieves real-time weather data including:
-  - Temperature
-  - Wind speed
-  - Weather condition code
-- Utilizes the Open-Meteo public API without requiring an API key
-- Simple and minimal interface suitable for browser console or Node.js execution
+✨ Features  
+- 🌍 Get real-time weather information for Ibadan, Nigeria  
+- 🌡️ Displays temperature, wind speed, and weather condition code  
+- ⚡ Fast and lightweight command-line interface  
+- 🔥 Built with JavaScript for simplicity and portability  
 
 ---
 
-## Getting Started
+🛠 Installation  
+Follow these steps to set up and run the project on your local machine:
 
-### Prerequisites
-
-- For running in Node.js, ensure Node.js is installed on your system: [Download Node.js](https://nodejs.org/)
-
-### Installation
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/SewejeJoshua/weather-with-api
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/SewejeJoshua/weather-with-api.git
+   cd weather-with-api
